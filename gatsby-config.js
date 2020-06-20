@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `東京都知事選挙2020候補者情報`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `東京都で働く会社員`,
+      summary: `都内で働いている人です。都知事選挙の情報を発信しています。`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `東京都知事選挙2020候補者の基本的な情報を横軸で見やすく説明しています。候補者一人ひとりを知る前に、基本的な情報をアップデートしましょう`,
+    siteUrl: `https://governor-election-2020.tokyo`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [

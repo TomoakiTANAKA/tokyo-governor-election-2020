@@ -1,6 +1,6 @@
 ---
 title: 七海　ひろこ(ななみ　ひろこ)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -28,3 +28,19 @@ description: ''
 * 2017年衆院選 比例東京ブロックより出馬
 
 * 2019年参院選　東京選挙区より出馬
+
+
+## 外部情報
+
+* homepage
+  * https://nanami-hiroko.net/
+
+* twitter
+  * https://twitter.com/hiroko_nanami
+
+* facebook
+  * https://www.facebook.com/nanami.hiroko/
+
+* instagram
+  * https://www.instagram.com/nanamihiroko_/
+

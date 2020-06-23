@@ -1,6 +1,6 @@
 ---
 title: 桜井　誠(さくらい　まこと)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -22,3 +22,21 @@ description: ''
 * 
 
 * 2016年東京都知事選挙　出馬
+
+
+## 外部情報
+
+* homepage
+  * https://sakurai-makoto.jp/
+
+* twitter
+  * https://twitter.com/nippondaiichi
+
+
+* facebook
+  * https://www.facebook.com/SakuraiOuen/
+
+
+* instagram
+  * https://www.instagram.com/sakuraimakoto2018/
+

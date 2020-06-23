@@ -1,6 +1,6 @@
 ---
 title: 内藤　久遠(ないとう　ひさお)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -22,3 +22,10 @@ description: ''
 * 2014都知事選出馬（初出馬）
 
 * 2016都知事選出馬
+
+
+## 外部情報
+
+* twitter
+  * https://twitter.com/NaitoHisao
+

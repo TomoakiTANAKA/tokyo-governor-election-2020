@@ -1,6 +1,6 @@
 ---
 title: 斉藤　健一郎(さいとう　けんいちろう)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -16,3 +16,10 @@ description: ''
 * マネジメント業・ホリエモン新党員
 
 * （元）飲食店経営
+
+
+## 外部情報
+
+* twitter
+  * https://twitter.com/aqua_saito
+

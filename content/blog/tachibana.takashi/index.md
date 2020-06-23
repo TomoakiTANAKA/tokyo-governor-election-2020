@@ -1,6 +1,6 @@
 ---
 title: 立花　孝志(たちばな　たかし)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -26,3 +26,14 @@ description: ''
 * 立花孝志ひとり放送局代表取締役
 
 * マツコ・デラックス被害者の会代表取締役
+
+
+## 外部情報
+
+* twitter
+  * https://twitter.com/tachibanat
+
+* youtube
+  * https://www.youtube.com/channel/UC80FWuvIAtY-TRtYuDocfUw
+
+

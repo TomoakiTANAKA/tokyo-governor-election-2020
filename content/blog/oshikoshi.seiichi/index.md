@@ -1,6 +1,6 @@
 ---
 title: 押越　清悦(おしこし　せいいち)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -14,3 +14,17 @@ description: ''
 * 石川県松任農業高
 
 * ＮＰＯ代表（元）建築関連業
+
+
+## 外部情報
+
+* homepage
+  * https://tiinjapan.wordpress.com/
+
+* twitter
+  * https://twitter.com/ti_in_japan?lang=en
+
+
+* blog
+  * http://liferelax.blog.fc2.com/blog-date-201902.html
+

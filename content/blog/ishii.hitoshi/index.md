@@ -1,6 +1,6 @@
 ---
 title: 石井　均(いしい　ひとし)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -20,3 +20,13 @@ description: ''
 * 東海銀行（現三菱ＵＦＪ銀行）に就職、銀行員
 
 * フリージャーナリスト
+
+
+## 外部情報
+
+* homepage
+  * https://hi0815.jimdofree.com/
+
+* twitter
+  * https://twitter.com/Ishii45596920
+

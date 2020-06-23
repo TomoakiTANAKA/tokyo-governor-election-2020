@@ -1,6 +1,6 @@
 ---
 title: 込山　洋(こみやま　ひろし)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -22,3 +22,19 @@ description: ''
 * 2019年5月より新橋SL広場喫煙所にて清掃、マナー啓蒙活動を行う。https://togetter.com/li/1362132
 
 * 2019年9月に東京チャレンジネットを経て、介護職員初任者研修課程を修了。
+
+
+## 外部情報
+
+* homepage
+  * https://komiyamahiroshi.jimdofree.com/
+
+
+* twitter
+  * https://twitter.com/komiyama0509
+
+
+* facebook
+  * https://www.facebook.com/hiroshi.komiyama.18
+
+

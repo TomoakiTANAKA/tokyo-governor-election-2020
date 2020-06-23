@@ -1,6 +1,6 @@
 ---
 title: 関口　安弘(せきぐち　やすひろ)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -14,3 +14,11 @@ description: ''
 * 明大中退
 
 * 建物管理業（元）航空自衛官
+
+
+## 外部情報
+
+* homepage
+  * https://komiyamahiroshi.jimdofree.com/
+
+

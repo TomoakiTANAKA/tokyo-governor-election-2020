@@ -1,6 +1,6 @@
 ---
 title: 服部　修(はっとり　おさむ)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -14,3 +14,10 @@ description: ''
 * 東京成徳大
 
 * ミュージシャン・ホリエモン新党員・Ｎ国党員
+
+
+## 外部情報
+
+* twitter
+  * https://twitter.com/Nijiiro_Ongaku
+

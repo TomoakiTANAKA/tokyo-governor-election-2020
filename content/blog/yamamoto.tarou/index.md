@@ -1,6 +1,6 @@
 ---
 title: 山本　太郎(やまもと　たろう)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -16,3 +16,17 @@ description: ''
 * 党代表・俳優（元）
 
 * 参院議員・自由党共同代表
+
+
+## 外部情報
+
+* homepage
+  * https://www.taro-yamamoto.jp/
+
+* twitter
+  * https://twitter.com/yamamototaro0
+https://twitter.com/taro_koho
+
+* facebook
+  * https://www.facebook.com/imahahitori?...
+

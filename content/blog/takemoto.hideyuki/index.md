@@ -1,6 +1,6 @@
 ---
 title: 竹本　秀之(たけもと　ひでゆき)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -18,3 +18,15 @@ description: ''
 * アマチュア音楽家？
 
 * 先物取引投資家
+
+
+## 外部情報
+
+* homepage
+  * https://www.hideyukitakemoto.com/blank-1/
+
+
+* twitter
+  * https://twitter.com/SleepyBuddaReal
+
+

@@ -1,6 +1,6 @@
 ---
 title: 平塚　正幸(ひらつか　まさゆき)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -14,3 +14,10 @@ description: ''
 * 明大中退
 
 * ユーチューバー・国民主権党首（元）スポーツ指導員
+
+
+## 外部情報
+
+* twitter
+  * https://twitter.com/sayuflatmound2
+

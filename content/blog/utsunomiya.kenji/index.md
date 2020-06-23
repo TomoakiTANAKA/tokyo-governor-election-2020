@@ -1,6 +1,6 @@
 ---
 title: 宇都宮　健児(うつのみや　けんじ)
-date: "2020-06-20T22:58:32"
+date: "2020-06-23T10:40:49"
 description: ''
 ---
 
@@ -24,3 +24,21 @@ description: ''
 * 反貧困ネットワーク代表
 
 * 年越し派遣村名誉村長
+
+
+## 外部情報
+
+* homepage
+  * http://utsunomiyakenji.com/
+
+* twitter
+  * https://twitter.com/utsunomiyakenji
+
+
+* facebook
+  * https://www.facebook.com/utsunomiyakenji
+
+
+* instagram
+  * https://www.instagram.com/utsunomiya_kenji/
+

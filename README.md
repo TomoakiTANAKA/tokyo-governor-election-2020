@@ -1,5 +1,7 @@
 # Tokyo Governor Election 2020
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd8c299b-4473-4eb1-b8ef-62e874e55e10/deploy-status)](https://app.netlify.com/sites/suspicious-bell-a9c79e/deploys)
+
 ## **Start developing.**
 
 ```shell

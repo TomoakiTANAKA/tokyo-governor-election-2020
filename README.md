@@ -31,3 +31,7 @@ netlify deploy
 # reflect in the production
 netlify deploy --prod
 ```
+
+## **Modify posts**
+
+modify *.md file on `content/blog/{candidate.name}/index.md`

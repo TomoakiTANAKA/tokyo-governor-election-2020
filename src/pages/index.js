@@ -16,11 +16,151 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
 
       <h2>データでみる東京都知事選2020</h2>
+      <h3>年齢</h3>
+      {/* 年齢 */}
       <div style={
         { width: '100%'
        }
       }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=24493599&amp;format=interactive" 
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
 
+      {/* 性別 */}
+      <h3>性別</h3>
+      <div style={
+        { width: '100%'
+       }
+      }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=56019323&amp;format=interactive" 
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
+
+      {/* 出身地 */}
+      <h3>出身地</h3>
+      <div style={
+        { width: '100%'
+       }
+      }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=1307548898&amp;format=interactive" 
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
+
+      {/* 学歴 */}
+      <h3>学歴</h3>
+      <div style={
+        { width: '100%'
+       }
+      }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=1041957208&amp;format=interactive"
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
+
+      {/* 出身地 */}
+      <h3>出身地</h3>
+      <div style={
+        { width: '100%'
+       }
+      }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=1437086025&amp;format=interactive" 
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
+
+      {/* 2016年東京都知事選得票率 */}
+      <h3>2016年東京都知事選得票率</h3>
+      <div style={
+        { width: '100%'
+       }
+      }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=172629400&amp;format=interactive" 
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
+
+
+      <h2>候補者データの比較</h2>
+      <div style={
+        { width: '100%'
+       }
+      }>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubhtml?gid=851197282&amp;single=true&amp;widget=true&amp;headers=false" 
+                width="100%" 
+                height="380px"
+                frameborder="0" 
+                marginwidth="0" 
+                marginheight="0" 
+                scrolling="no" 
+                style={
+                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
+                } 
+                allowfullscreen
+        />
+      </div>
+
+      <h2>演説動画一覧</h2>
+      <div style={
+        { width: '100%'
+       }
+      }>
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_o_-LU6bTIAWZipEiPtorM7v8eB2piJTM8Mrto-9NdX2VZDcaKP1gyXGeQ5sHRaZ_gJ_X5gM1tsa7/embed?start=false&loop=false&delayms=60000" 
                 width="100%" 
                 height="320px"

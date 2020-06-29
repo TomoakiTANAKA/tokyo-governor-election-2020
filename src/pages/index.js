@@ -7,6 +7,8 @@ import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
 import AgeData from "../components/graph/AgeData"
+import CareerData from "../components/graph/CareerData"
+import EducationalBackgroundData from "../components/graph/EducationalBackgroundData"
 import SexData from "../components/graph/sexData"
 import HometownData from "../components/graph/HometownData"
 
@@ -31,44 +33,10 @@ const BlogIndex = ({ data, location }) => {
       <HometownData/>
 
       {/* 学歴 */}
-      <h3>学歴</h3>
-      <div style={
-        { width: '100%'
-       }
-      }>
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=1041957208&amp;format=interactive"
-                width="100%" 
-                height="380px"
-                frameborder="0" 
-                marginwidth="0" 
-                marginheight="0" 
-                scrolling="no" 
-                style={
-                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
-                } 
-                allowFullScreen
-        />
-      </div>
+      <EducationalBackgroundData/>
 
       {/* 職歴 */}
-      <h3>職歴</h3>
-      <div style={
-        { width: '100%'
-       }
-      }>
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=1437086025&amp;format=interactive" 
-                width="100%" 
-                height="380px"
-                frameborder="0" 
-                marginwidth="0" 
-                marginheight="0" 
-                scrolling="no" 
-                style={
-                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
-                } 
-                allowFullScreen
-        />
-      </div>
+      <CareerData/>
 
       {/* 2016年東京都知事選得票率 */}
       <h3>2016年東京都知事選得票率</h3>

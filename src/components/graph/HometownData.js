@@ -22,9 +22,30 @@ const HometownData = () => {
             <Bar
                 data={data}
                 width={100}
-                height={50}
+                height={300}
                 options={{
-                    maintainAspectRatio: false
+                    barPercentage: 0.5,
+                    barThickness: 6,
+                    maxBarThickness: 8,
+                    minBarLength: 2,
+                    maintainAspectRatio: false,
+                    scales: {
+                        xAxes: [{
+                                display: true,
+                                scaleLabel: {
+                                    display: true
+                                }
+                            }],
+                        yAxes: [{
+                                display: true,
+                                ticks: {
+                                    beginAtZero: true,
+                                    steps: 1,
+                                    stepValue: 5,
+                                    max: 8
+                                }
+                            }]
+                    },
                 }}
             />
         </div>

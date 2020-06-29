@@ -4,8 +4,9 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import SexData from "../components/graph/sexData"
 import { rhythm } from "../utils/typography"
+import SexData from "../components/graph/sexData"
+import HometownData from "../components/graph/HometownData"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -41,24 +42,7 @@ const BlogIndex = ({ data, location }) => {
       <SexData/>
 
       {/* 出身地 */}
-      <h3>出身地</h3>
-      <div style={
-        { width: '100%'
-       }
-      }>
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=1307548898&amp;format=interactive" 
-                width="100%" 
-                height="380px"
-                frameborder="0" 
-                marginwidth="0" 
-                marginheight="0" 
-                scrolling="no" 
-                style={
-                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
-                } 
-                allowFullScreen
-        />
-      </div>
+      <HometownData/>
 
       {/* 学歴 */}
       <h3>学歴</h3>

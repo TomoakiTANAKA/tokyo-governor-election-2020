@@ -20,7 +20,8 @@ const BlogIndex = ({ data, location }) => {
         { width: '100%'
        }
       }>
-        <iframe src="//www.slideshare.net/slideshow/embed_code/key/C4MdOBFbOP8nRQ" 
+
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_o_-LU6bTIAWZipEiPtorM7v8eB2piJTM8Mrto-9NdX2VZDcaKP1gyXGeQ5sHRaZ_gJ_X5gM1tsa7/embed?start=false&loop=false&delayms=60000" 
                 width="100%" 
                 height="320px"
                 frameborder="0" 

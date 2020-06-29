@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import SexData from "../components/graph/sexData"
 import { rhythm } from "../utils/typography"
 
 const BlogIndex = ({ data, location }) => {
@@ -32,29 +33,12 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
       {/* 性別 */}
-      <h3>性別</h3>
-      <div style={
-        { width: '100%'
-       }
-      }>
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMgnIbN_bmHnbLm3xml5i-N9iIqJRsnEZxZfpreHrHv2ZZpkH42gQl1_yqRxlogeuUlQia28in59OC/pubchart?oid=56019323&amp;format=interactive" 
-                width="100%" 
-                height="380px"
-                frameborder="0" 
-                marginwidth="0" 
-                marginheight="0" 
-                scrolling="no" 
-                style={
-                  {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
-                } 
-                allowfullscreen
-        />
-      </div>
+      <SexData/>
 
       {/* 出身地 */}
       <h3>出身地</h3>
@@ -72,7 +56,7 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
@@ -92,7 +76,7 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
@@ -112,7 +96,7 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
@@ -132,7 +116,7 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
@@ -152,7 +136,7 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
@@ -171,7 +155,7 @@ const BlogIndex = ({ data, location }) => {
                 style={
                   {border: '1px solid #CCC', marginBottom: '5px', width: '100%'}
                 } 
-                allowfullscreen
+                allowFullScreen
         />
       </div>
 
